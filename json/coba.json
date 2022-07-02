@@ -1,0 +1,24 @@
+[
+	{
+		"nama": "Novia Marsheila L",
+		"umur": 18,
+		"nim": "202151082",
+		"lulus": false,
+		"hobi": ["coding", "badminton", "reading"],
+		"pembimbing": {
+			"pembimbing1": "Berlian",
+			"pembimbing2": "Saniya"
+		}
+	},
+	{
+		"nama": "Akhmad Rival S",
+		"umur": 15,
+		"nim": "202151083",
+		"lulus": false,
+		"hobi": ["volly", "badminton"],
+		"pembimbing": {
+			"pembimbing1": "Sisil",
+			"pembimbing2": "Berlian"
+		}
+	}
+]
